@@ -1,0 +1,13 @@
+
+.env
+.cache
+.spotify_cache/
+__pycache__/
+venv/
+
+.DS_Store
+Thumbs.db
+
+*.pyc
+*.pyo
+*.pyd
